@@ -1,7 +1,7 @@
 # RVoxWeb
 A basic website for my RVoxEngine project 
 
-<a href="https://xxruyle.github.io/">Website Preview</a>    
+<a href="https://xxruyle.github.io/RVoxWeb/">Website Preview</a>    
 
 ## Inspiration 
 Uses basic ideas from the Odin Project's <a href="https://www.theodinproject.com/lessons/foundations-landing-page">Landing Page Project</a>  
